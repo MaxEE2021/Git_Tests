@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: backend-ks-api-portal MondayAPI new fds df
+  title: backend-ks-api-portal MondayAPI new fds df 
   version: 1.0.0
   description: API for api-portal project
 security:
